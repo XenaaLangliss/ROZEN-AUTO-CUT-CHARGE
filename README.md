@@ -11,7 +11,7 @@ Limit charging to maintain battery health on mediatek devices.
 
 ## 📌 Overview
 
-**ROZEN-CUT-CHARGER** is a lightweight Android module that allows you to **limit battery charging percentage** to help reduce battery degradation and extend battery lifespan.
+**ROZEN-AUTO-CUT-CHARGER** is a lightweight Android module that allows you to **limit battery charging percentage** to help reduce battery degradation and extend battery lifespan.
 
 This module includes a **WebUI interface**, making it easy to configure charging limits without using terminal commands.
 
